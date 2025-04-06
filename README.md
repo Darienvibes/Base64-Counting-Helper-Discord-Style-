@@ -1,6 +1,6 @@
 # Base64 Counting Helper (Discord-Style)
 
-A beginner-friendly Python script that allows users to convert **decimal numbers** into **Base64-encoded counting strings**, as commonly used in Discord counting channels (e.g., `NTUwMA==` for `5500`) — and back again.
+A simple Python script I made for converting decimal numbers into Base64 strings—like the kind you see in Discord counting channels (e.g., `NTUwMA==` for `5500`) — and back again.
 
 ## Features
 
