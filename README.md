@@ -6,8 +6,8 @@ A simple Python script I made for converting decimal numbers into Base64 strings
 
 - Convert decimal numbers (e.g., `1234`) into Base64 counting strings (`MTIzNA==`)
 - Decode Base64 counting strings back into decimal numbers
-- Simple and interactive command-line interface
-- Great for teaching or supporting newcomers in Discord-based counting events
+- Easy-to-use command-line interface
+- Helpful if you're running a counting bot or just curious how it works
 
 
 
